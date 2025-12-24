@@ -65,24 +65,17 @@ Forecasted future demand using historical trends to support
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:facc15,50:9333EA,100:00f7ff" />
 
-## 🧠 Tech Stack (Neon Mode)
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,react,mongodb,js,git&theme=dark" />
 </p>
 
 ### 📊 Analytics & Visualization
-- Python (Pandas, NumPy)
-- SQL & MySQL
-- Power BI (DAX, Interactive Dashboards)
-- Advanced Excel
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,mysql,excel&theme=dark" /> <img src="https://img.shields.io/badge/Power%20BI-facc15?style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
 
 ### 🤖 AI & Development
-- Machine Learning Fundamentals
-- Data Cleaning & Feature Engineering
-- REST APIs
-- Full-Stack React Applications
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=python&theme=dark" /> <img src="https://img.shields.io/badge/Machine%20Learning-9333EA?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Preprocessing-00f7ff?style=for-the-badge&logo=databricks&logoColor=black"/> </p>
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00f7ff,50:9333EA,100:facc15" />

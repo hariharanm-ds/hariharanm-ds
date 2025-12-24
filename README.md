@@ -40,21 +40,21 @@
 
 ## 🚀 Featured Projects
 
-### 🔮 **DreamLens AI**
+### 🔮 DreamLens AI
 🧠 *Explainable AI • UX-Driven Analytics*  
-A **clarity-first AI concept** that simplifies complex data into  
+A clarity-first AI concept that simplifies complex data into  
 **human-friendly insights** using explainable models and clean UI thinking.
 
 ---
 
-### 📈 **Demand Forecasting System**
+### 📈 Demand Forecasting System
 📊 *Time-Series Analytics • Business Intelligence*  
 Forecasted future demand using historical trends to support  
 **inventory planning & strategic decisions**.
 
 ---
 
-### 💊 **PharmTrack**
+### 💊 PharmTrack
 ⚕️ *Full-Stack Health Analytics Platform*  
 **React + MongoDB + Analytics Architecture**
 - Role-based login (User / Doctor)
@@ -67,15 +67,30 @@ Forecasted future demand using historical trends to support
 
 ## 🧠 Tech Stack
 
+### 📊 Analytics & Visualization
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,react,mongodb,js,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Power%20BI-facc15?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-### 📊 Analytics & Visualization
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,mysql,excel&theme=dark" /> <img src="https://img.shields.io/badge/Power%20BI-facc15?style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
+---
 
-### 🤖 AI & Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=python&theme=dark" /> <img src="https://img.shields.io/badge/Machine%20Learning-9333EA?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Preprocessing-00f7ff?style=for-the-badge&logo=databricks&logoColor=black"/> </p>
+### 🤖 AI & Data Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-9333EA?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-00f7ff?style=for-the-badge&logo=databricks&logoColor=black"/>
+</p>
+
+---
+
+### 🌐 Full-Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,mongodb,js,git,github&theme=dark" />
+</p>
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00f7ff,50:9333EA,100:facc15" />
@@ -88,6 +103,10 @@ Forecasted future demand using historical trends to support
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharanm-ds&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hariharanm-ds&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 ---

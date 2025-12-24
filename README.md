@@ -1,8 +1,19 @@
-<h1 align="center">Hi 👋, I'm Hariharan M</h1>
-<h3 align="center">Data Analyst | Applied AI Developer | Power BI Specialist</h3>
+<h1 align="center">
+<span style="background: linear-gradient(90deg, #00E5FF, #7C4DFF, #FFD600); -webkit-background-clip: text; color: transparent; font-weight: bold; text-shadow: 0 0 10px #00E5FF, 0 0 20px #7C4DFF, 0 0 30px #FFD600;">
+✨ Hi 👋, I'm Hariharan M ✨
+</span>
+</h1>
+
+<h3 align="center">
+<span style="color: #7C4DFF; text-shadow: 0 0 5px #FFD600, 0 0 10px #00E5FF;">
+Data Analyst | Applied AI Developer | Power BI Specialist
+</span>
+</h3>
 
 <p align="center">
+<span style="background: linear-gradient(90deg, #FFD600, #00E5FF, #7C4DFF); -webkit-background-clip: text; color: transparent; font-weight: bold; text-shadow: 0 0 5px #FFD600, 0 0 10px #00E5FF, 0 0 15px #7C4DFF;">
 Turning raw data into clear insights • Building analytics-driven products • Designing intelligence with purpose
+</span>
 </p>
 
 <p align="center">
@@ -17,111 +28,58 @@ Turning raw data into clear insights • Building analytics-driven products • 
 
 I’m a **college student from Sri Shakthi Institute of Engineering and Technology, India**, deeply focused on **data analytics, applied AI, and insight-driven problem solving**.
 
-I don’t just analyze data —  
-I **translate complexity into clarity**, build **decision-support systems**, and design solutions that **actually help people**.
-
-My work blends:
-- 📊 Analytical thinking  
-- 🤖 Practical AI  
-- 🎯 Business-focused insights  
+<span style="color: #FFD600; text-shadow: 0 0 5px #00E5FF, 0 0 10px #7C4DFF;">
+I translate complexity into clarity, build decision-support systems, and design solutions that actually help people.
+</span>
 
 ---
 
 ## ⚡ Core Focus Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-00E5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-7C4DFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20BI-FFD600?style=for-the-badge&textColor=000" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-00E5FF?style=for-the-badge&logo=python&logoColor=white&labelColor=7C4DFF" />
+  <img src="https://img.shields.io/badge/AI-7C4DFF?style=for-the-badge&logo=opencv&logoColor=white&labelColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Power%20BI-FFD600?style=for-the-badge&logo=microsoft-power-bi&logoColor=black&labelColor=7C4DFF" />
 </p>
-
----
-
-## 🧠 Technical Skillset
-
-### 📊 Data Analytics & Visualization
-- Python (Pandas, NumPy)
-- SQL (data querying & transformation)
-- Power BI (DAX, interactive dashboards)
-- Advanced Excel (analysis & reporting)
-
-### 🤖 Applied AI & Development
-- JavaScript, React
-- MongoDB
-- REST APIs
-- Machine Learning fundamentals
-
-### 💼 Professional Strengths
-- Insight storytelling
-- Analytical problem decomposition
-- KPI-driven thinking
-- Strong foundations in DSA
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🔮 DreamLens AI
-A **concept-driven AI project** focused on *clarity-first intelligence*.  
-Designed to convert complex information into **human-friendly insights**, emphasizing explainability, UX, and decision support over black-box automation.
-
-> *Vision*: AI that people can **understand and trust**.
-
----
+<span style="color: #00E5FF; text-shadow: 0 0 5px #FFD600, 0 0 10px #7C4DFF;">
+A concept-driven AI project turning complexity into human-friendly insights.
+</span>
 
 ### 📈 Demand Forecasting
-A **time-series analytics project** built to predict future demand using historical patterns.
-
-**Highlights**
-- Trend & seasonality analysis  
-- Forecast accuracy evaluation  
-- Business-oriented decision support  
-
-> *Outcome*: Smarter planning through data-backed forecasts.
-
----
+<span style="color: #FFD600; text-shadow: 0 0 5px #00E5FF, 0 0 10px #7C4DFF;">
+Time-series analytics project predicting future demand using historical patterns.
+</span>
 
 ### 💊 PharmTrack
-A **full-stack health analytics platform** built using **React + MongoDB**.
-
-**Key Capabilities**
-- Medication tracking & alerts  
-- Role-based access (users & doctors)  
-- Emergency hospital & doctor discovery  
-- Scalable architecture with AI-ready design  
-
-> *Goal*: Improve health outcomes through data and accessibility.
-
----
-
-### 📊 Data Analytics Portfolio
-A collection of **real-world analytics projects** covering:
-- Exploratory Data Analysis (EDA)
-- Data cleaning & transformation
-- Power BI dashboards
-- Insight generation for decision-making
-
-> *Focus*: Practical analytics, not toy datasets.
+<span style="color: #7C4DFF; text-shadow: 0 0 5px #FFD600, 0 0 10px #00E5FF;">
+Full-stack health analytics platform using React + MongoDB. Goal: Improve health outcomes via data and accessibility.
+</span>
 
 ---
 
 ## 📌 What Sets Me Apart
 
-✔ I think like an **analyst**, not just a coder  
-✔ I care about **clarity, impact, and usability**  
-✔ I design projects with **real users in mind**  
-✔ I continuously refine both **technical and communication skills**
+✨ Think like an **analyst**, not just a coder  
+✨ Care about **clarity, impact, and usability**  
+✨ Build projects with **real users in mind**  
+✨ Continuously refine **technical & communication skills**
 
 ---
 
 ## 📈 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharanm-ds&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharanm-ds&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharanm-ds&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharanm-ds&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -134,4 +92,4 @@ A collection of **real-world analytics projects** covering:
 
 ---
 
-⭐ *If my work adds value, consider starring a repository — it truly motivates me.*
+⭐ *If my work adds value, consider starring a repository — it motivates me!*

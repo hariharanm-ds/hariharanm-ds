@@ -1,43 +1,45 @@
-<!-- 🔥 NEON GLOW PROFILE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hariharan%20M&fontAlign=50&fontSize=45&fontColor=ffffff&desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%26%20Analytics%20Developer&descAlign=50&descAlignY=70&color=0:0f2027,50:203a43,100:2c5364" />
+<!-- 🌟 NEON GLOW HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hariharan%20M&fontAlign=50&fontSize=45&fontColor=ffffff&desc=Data%20Analyst%20%7C%20AI%20%26%20Analytics%20Developer&descAlign=50&descAlignY=70&color=0:0f2027,50:203a43,100:2c5364" />
 
 <!-- ⚡ TYPING GLOW EFFECT -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Insights;Power+BI+%7C+Python+%7C+SQL;Applied+AI+%26+Analytics;Building+Real-World+Data+Products" />
 </p>
 
+<!-- 💥 GLOW BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analytics-00f7ff?style=for-the-badge&logo=databricks&logoColor=black"/>
   <img src="https://img.shields.io/badge/AI-9333EA?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-facc15?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
 ## 🌌 About Me
 
-I am a college student from **Sri Shakthi Institute of Engineering and Technology, India**, driven by a strong passion for **data analytics, applied AI, and insight-driven problem solving**.  
-I focus on building **high-impact, real-world data solutions** that combine clarity, analytics, and intelligent systems.
+I am a college student from **Sri Shakthi Institute of Engineering and Technology, India**, passionate about **data analytics, applied AI, and building real-world solutions**.  
+I focus on **clarity, insights, and intelligence** in every project.
 
 ---
 
+<!-- 🌈 GLOW DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00f7ff,50:9333EA,100:facc15" />
 
-## 🚀 Current Focus Areas
+## 🚀 Featured Projects
 
-### ✨ DreamLens AI
-A **clarity-first AI concept** that transforms complex information into **intuitive, human-friendly insights**.  
-Focused on explainability, UX intelligence, and decision-support systems.
+### 🔮 DreamLens AI
+A **clarity-first AI concept** transforming complex information into **human-friendly insights** with explainable AI and UX-driven design.
 
 ### 📈 Demand Forecasting
-A **time-series analytics project** predicting future demand using historical patterns.  
-Techniques include trend modeling, seasonality detection, and performance evaluation for **data-backed decisions**.
+A **time-series analytics project** predicting demand using historical patterns for **business intelligence**.
 
 ### 💊 PharmTrack
-A **full-stack health analytics platform** built with **React + MongoDB** to improve medication management and emergency readiness.
-- User & doctor role-based access  
+A **full-stack health analytics platform** built with React + MongoDB:  
+- Role-based access (user & doctor)  
 - Nearby hospital discovery  
-- AI-driven insights (planned)
+- AI-ready design
 
 ---
 
@@ -51,47 +53,27 @@ A **full-stack health analytics platform** built with **React + MongoDB** to imp
 
 **Analytics & Visualization**
 - Python (Pandas, NumPy)
-- SQL
+- SQL & MySQL
 - Power BI (DAX, dashboards)
 - Advanced Excel
 
-**AI & Systems**
+**AI & Development**
 - Machine Learning fundamentals
 - Data preprocessing pipelines
-- REST APIs
+- REST APIs & Full-stack React
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00f7ff,50:9333EA,100:facc15" />
 
-## 📊 Featured Projects
-- 🌟 **DreamLens AI** — Human-centered AI concept  
-- 📊 **Demand Forecasting** — Time-series analytics  
-- 💊 **PharmTrack** — Health analytics platform  
-- 📉 **Data Analytics Projects** — EDA, dashboards, insights  
-
----
-
 ## ⚡ GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharanm-ds&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharanm-ds&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharanm-ds&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharanm-ds&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake (🔥 Crowd Favorite)
-
-<p align="center">
-  <img src="https://github.com/hariharanm-ds/hariharanm-ds/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharanm-ds&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---

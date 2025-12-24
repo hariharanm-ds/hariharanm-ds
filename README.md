@@ -40,21 +40,21 @@
 
 ## 🚀 Featured Projects
 
-### 🔮 DreamLens AI
+### 🔮 **DreamLens AI**
 🧠 *Explainable AI • UX-Driven Analytics*  
-A clarity-first AI concept that simplifies complex data into  
+A **clarity-first AI concept** that simplifies complex data into  
 **human-friendly insights** using explainable models and clean UI thinking.
 
 ---
 
-### 📈 Demand Forecasting System
+### 📈 **Demand Forecasting System**
 📊 *Time-Series Analytics • Business Intelligence*  
 Forecasted future demand using historical trends to support  
 **inventory planning & strategic decisions**.
 
 ---
 
-### 💊 PharmTrack
+### 💊 **PharmTrack**
 ⚕️ *Full-Stack Health Analytics Platform*  
 **React + MongoDB + Analytics Architecture**
 - Role-based login (User / Doctor)
@@ -65,49 +65,40 @@ Forecasted future demand using historical trends to support
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:facc15,50:9333EA,100:00f7ff" />
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack (Neon Mode)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,react,mongodb,js,git&theme=dark" />
+</p>
 
 ### 📊 Analytics & Visualization
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,excel&theme=dark" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Power%20BI-facc15?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+- Python (Pandas, NumPy)
+- SQL & MySQL
+- Power BI (DAX, Interactive Dashboards)
+- Advanced Excel
+
+### 🤖 AI & Development
+- Machine Learning Fundamentals
+- Data Cleaning & Feature Engineering
+- REST APIs
+- Full-Stack React Applications
 
 ---
 
-### 🤖 AI & Data Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-9333EA?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Preprocessing-00f7ff?style=for-the-badge&logo=databricks&logoColor=black"/>
-</p>
-
----
-
-### 🌐 Full-Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,mongodb,js,git,github&theme=dark" />
-</p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:00f7ff,50:9333EA,100:facc15" />
 
-## ⚡ GitHub Performance
+## 🌟 Profile Highlights
+
+- 🎯 Focused on real-world data analytics problems  
+- 📊 Strong interest in visualization & dashboards  
+- 🤖 Exploring applied AI for decision support  
+- 🚀 Passionate about building useful data products  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharanm-ds&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img src="https://komarev.com/ghpvc/?username=hariharanm-ds&style=for-the-badge&color=00f7ff" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharanm-ds&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hariharanm-ds&theme=tokyonight&hide_border=true&border_radius=15"/>
-</p>
 
 ---
 

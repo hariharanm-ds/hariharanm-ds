@@ -75,7 +75,7 @@
 - Outperformed multiple teams through **advanced SQL querying, data analysis, and logical problem-solving**
 - Recognized for accuracy, efficiency, and analytical thinking
 
-🏆 **Smart India Hackathon (SIH) 2025 – Internal Hackathon Qualifier**  
+🏆 **Smart India Hackathon (SIH) 2025**  
 - **Qualified through the internal hackathon round** of SIH 2025  
 - Selected among top teams for proposing a **high-impact, problem-driven technical solution**
 - Demonstrated teamwork, innovation, and real-world problem understanding

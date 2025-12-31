@@ -70,20 +70,22 @@
 
 ## 🏆 Achievements
 
-🥈 **2nd Place Winner – Data Quest (SQL Competition)**  
-- Secured **2nd Prize** at **Karpagam Institute of Technology**  
-- Outperformed multiple teams through **advanced SQL querying, data analysis, and logical problem-solving**
-- Recognized for accuracy, efficiency, and analytical thinking
+🥈 **2nd Place Winner – Data Quest (Individual SQL Competition)**  
+- Secured **2nd Prize** in an **individual-level SQL competition** at **Karpagam Institute of Technology**
+- Competed independently against multiple participants using **advanced SQL queries and analytical reasoning**
+- Recognized for accuracy, efficiency, and strong problem-solving skills
 
-🏆 **Smart India Hackathon (SIH) 2025**  
-- **Qualified through the internal hackathon round** of SIH 2025  
-- Selected among top teams for proposing a **high-impact, problem-driven technical solution**
-- Demonstrated teamwork, innovation, and real-world problem understanding
+🏆 **Smart India Hackathon (SIH) 2025 – Problem Statement from Ministry of Tribal Affairs**  
+- Worked on an official **SIH 2025 problem statement issued by the Ministry of Tribal Affairs**
+- Designed a **technology-driven solution** focused on real-world governance and social impact
+- Demonstrated structured problem analysis, innovation, and feasibility-focused design
 
 🏅 **Top 15 Finalist – Hack-A-Cure (24-Hour National Hackathon)**  
-- Achieved **Top 15 rank** at **VIT Chennai** out of numerous competing teams  
-- Successfully built and presented a solution within a **24-hour high-pressure environment**
-- Recognized for **innovation, execution speed, and practical impact**
+- Secured **Top 15 position** at **VIT Chennai** in a **24-hour national-level hackathon**
+- Built a **Medical RAG-based Chatbot** to assist healthcare-related queries using contextual retrieval
+- Recognized for **practical healthcare impact, system design, and execution under pressure**
+
+
 
 
 ---

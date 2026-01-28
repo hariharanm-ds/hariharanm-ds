@@ -1,4 +1,6 @@
 <!-- 🌠 ULTRA NEON HERO HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;text=Hariharan%20M&amp;fontAlign=50&amp;fontSize=52&amp;fontColor=ffffff&amp;desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%26amp%3B%20Analytics%20Engineer&amp;descAlign=50&amp;descAlignY=72&amp;animation=fadeIn&amp;color=0:000428,50:004e92,100:00f7ff" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Hariharan%20M&fontAlign=50&fontSize=52&fontColor=ffffff&desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%26%20Analytics%20Engineer&descAlign=50&descAlignY=72&animation=fadeIn&color=0:000428,50:004e92,100:00f7ff" />
 
 <!-- ✨ NEON TYPING EFFECT -->

@@ -1,7 +1,27 @@
-<!-- 🌠 ULTRA NEON HERO HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;text=Hariharan%20M&amp;fontAlign=50&amp;fontSize=52&amp;fontColor=ffffff&amp;desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%26amp%3B%20Analytics%20Engineer&amp;descAlign=50&amp;descAlignY=72&amp;animation=fadeIn&amp;color=0:000428,50:004e92,100:00f7ff" />
+<!-- 🌟 COLORED NAME HEADER -->
+<h1 align="center" style="
+  font-size: 56px;
+  font-weight: 800;
+  letter-spacing: 3px;
+  background: linear-gradient(90deg, #00f7ff, #9333ea, #facc15);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 0 12px rgba(0,247,255,0.35);
+  margin-bottom: 8px;
+">
+  Hariharan M
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Hariharan%20M&fontAlign=50&fontSize=52&fontColor=ffffff&desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%26%20Analytics%20Engineer&descAlign=50&descAlignY=72&animation=fadeIn&color=0:000428,50:004e92,100:00f7ff" />
+<p align="center" style="
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1.5px;
+  color: #00f7ff;
+  margin-top: 0;
+">
+  Aspiring Data Analyst &nbsp;|&nbsp; AI Enthusiast
+</p>
+
 
 <!-- ✨ NEON TYPING EFFECT -->
 <p align="center">

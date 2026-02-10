@@ -55,7 +55,7 @@
 - Keeping analytics **clear, explainable, and impactful**
 
 🌐 **Live Portfolio:**  
-👉 https://hariharan-portfolio-blush.vercel.app/
+👉 https://hariharanm-portfolio.vercel.app/
 
 ---
 
